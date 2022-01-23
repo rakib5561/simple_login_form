@@ -65,3 +65,19 @@
   text-decoration: none;
   color: blue;
 }
+
+.other-login-sytem {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.google-tbn {
+  padding: 12px 20px;
+  border-radius: 15px;
+  background-color: red;
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin: 0px 10px;
+  font-weight: bold;
+}
